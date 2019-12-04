@@ -1,0 +1,10 @@
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Creditos.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Memoria.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Nomina.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Registro.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Resources.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.Presentacion.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.ticTacToe.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.ventaProductos.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.vbproj.GenerateResource.cache
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Release\ExamenFinal.vbproj.CoreCompileInputs.cache

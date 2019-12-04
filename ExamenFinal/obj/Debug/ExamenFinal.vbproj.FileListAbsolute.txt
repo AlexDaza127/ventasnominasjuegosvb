@@ -1,0 +1,53 @@
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbprojAssemblyReference.cache
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Resources.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Presentacion.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbproj.GenerateResource.cache
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.xml
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.xml
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ventaProductos.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ticTacToe.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Registro.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Nomina.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Memoria.resources
+C:\Users\Michael\source\repos\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Creditos.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.xml
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Creditos.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Memoria.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Nomina.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Registro.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Resources.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Presentacion.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ticTacToe.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ventaProductos.resources
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.xml
+C:\Users\Estudiante\Downloads\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.xml
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbprojAssemblyReference.cache
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Creditos.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Memoria.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Nomina.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Registro.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Resources.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.Presentacion.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ticTacToe.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.ventaProductos.resources
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbproj.GenerateResource.cache
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.vbproj.CoreCompileInputs.cache
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.xml
+A:\DOCUMENTOS\UNIVERSIDAD DISTRITAL TECNOLOGICA\CUARTO SEMESTRE\PROGRAMACION WEB\Examen Final\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
